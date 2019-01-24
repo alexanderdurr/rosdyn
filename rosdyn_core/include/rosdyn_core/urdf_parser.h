@@ -3,8 +3,8 @@
 
 # include <urdf/model.h>
 # include <ros/console.h>
-# include <Eigen/Geometry>
-# include <Eigen/StdVector>
+# include <eigen3/Eigen/Geometry>
+# include <eigen3/Eigen/StdVector>
 # include <boost/enable_shared_from_this.hpp>
 # include <boost/shared_ptr.hpp>
 # include <rosdyn_core/spacevect_algebra.h>

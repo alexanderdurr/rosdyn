@@ -2,7 +2,7 @@
 #define __ITIA_DYNAMICS_CORE__COMPONENT__
 
 # include <boost/graph/graph_concepts.hpp>
-# include <Eigen/Core>
+# include <eigen3/Eigen/Core>
 # include <ros/ros.h>
 
 namespace rosdyn 

@@ -17,7 +17,7 @@ int main(int argc, char **argv){
   }
   if (!nh.getParam("tool_frame",tool_frame))
   {
-    ROS_ERROR("tool_  frame not defined");
+    ROS_ERROR("tool_  frame not defined");  
   }
   
   

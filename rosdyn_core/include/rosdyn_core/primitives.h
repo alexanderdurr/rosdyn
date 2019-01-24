@@ -18,8 +18,6 @@
 # include <rosdyn_core/friction_polynomial2.h>
 # include <rosdyn_core/friction_polynomial1.h>
 
-# include <Eigen/Geometry>
-# include<Eigen/StdVector>
 
 #if ROS_VERSION_MINIMUM(1, 14, 1)
 # include <memory>

@@ -1,8 +1,8 @@
 #ifndef ITIA_SPACEVECT_ALGEBRA__201806200756
 #define ITIA_SPACEVECT_ALGEBRA__201806200756
 
-# include <Eigen/Geometry>
-# include <Eigen/Core>
+# include <eigen3/Eigen/Geometry>
+# include <eigen3/Eigen/Core>
 
 namespace Eigen
 {
